@@ -1,0 +1,6 @@
+{
+  "name": "進階桁架橋樑設計模擬器",
+  "description": "設計具備最大載重能力的橋樑，並在測試後獲得結構優化建議。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
